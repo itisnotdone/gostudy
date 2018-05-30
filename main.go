@@ -7,14 +7,14 @@ import (
 
 	//"github.com/d4l3k/go-pry/pry"
 
-	//"github.com/itisnotdone/study/fundamentals"
+	//"github.com/itisnotdone/gostudy/fundamentals"
 
-	//"github.com/itisnotdone/study/tutorials/welcome"
-	//"github.com/itisnotdone/study/tutorials/basics"
-	//"github.com/itisnotdone/study/tutorials/flowcontrol"
-	//"github.com/itisnotdone/study/tutorials/moretypes"
-	//"github.com/itisnotdone/study/tutorials/methods"
-	"github.com/itisnotdone/study/others"
+	//"github.com/itisnotdone/gostudy/tutorials/welcome"
+	//"github.com/itisnotdone/gostudy/tutorials/basics"
+	//"github.com/itisnotdone/gostudy/tutorials/flowcontrol"
+	//"github.com/itisnotdone/gostudy/tutorials/moretypes"
+	//"github.com/itisnotdone/gostudy/tutorials/methods"
+	"github.com/itisnotdone/gostudy/others"
 )
 
 //import "github.com/d4l3k/go-pry/pry"
